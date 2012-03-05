@@ -8,10 +8,7 @@ Highlights any scheduled posts you might have on the Posts edit screen.
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+This plugin will add some highlighting to any scheduled posts you have.  It adds a blue gradient background to the entire row of any post that is scheduled, on the Post Edit screen.
 
 == Installation ==
 
