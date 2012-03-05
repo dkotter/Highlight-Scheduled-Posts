@@ -1,0 +1,18 @@
+.wp-list-table .hsp-scheduled {
+	background-color: #eaf8ff;
+	background: -moz-linear-gradient(top, rgba(234,248,255,1) 0%, rgba(209,240,255,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,248,255,1)), color-stop(100%,rgba(209,240,255,1)));
+	background: -webkit-linear-gradient(top, rgba(234,248,255,1) 0%,rgba(209,240,255,1) 100%);
+	background: -o-linear-gradient(top, rgba(234,248,255,1) 0%,rgba(209,240,255,1) 100%);
+	background: -ms-linear-gradient(top, rgba(234,248,255,1) 0%,rgba(209,240,255,1) 100%);
+	background: linear-gradient(top, rgba(234,248,255,1) 0%,rgba(209,240,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaf8ff', endColorstr='#d1f0ff',GradientType=0 );
+}
+.wp-list-table .hsp-scheduled .date {
+	color: #BC0B0B;
+	font-weight: bold;
+}
+.wp-list-table .hsp-scheduled .date abbr {
+	color: #555;
+	font-weight: normal;
+}
