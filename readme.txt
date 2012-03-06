@@ -3,6 +3,7 @@ Contributors: dkotter
 Tags: posts, scheduled posts, highlight, highlight scheduled posts
 Requires at least: 3.3.1
 Tested up to: 3.3.1
+Stable tag: trunk
 
 Highlights any scheduled posts you might have on the Posts edit screen.
 
